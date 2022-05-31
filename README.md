@@ -1,6 +1,6 @@
-# Terms for &lt;your scope&gt;
+# Terms for HXWG
 
-This is where to collaborate on terminology that &lt;your scope&gt; wants to formalize -- to build, version, and release glossaries, to reference from whitepapers, and so forth.
+This is where to collaborate on terminology that the Human Experience Working Group wants to formalize -- to build, version, and release glossaries, to reference from whitepapers, and so forth.
 
 ### Next Steps (after creating the repo)
 
