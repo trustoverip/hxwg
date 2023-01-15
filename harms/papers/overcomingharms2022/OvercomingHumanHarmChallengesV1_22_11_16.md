@@ -1,4 +1,4 @@
-Overcoming Human Harm Challenges in Digital Identity Ecosystems
+# Overcoming Human Harm Challenges in Digital Identity Ecosystems
 
 Version 1.0 Draft for Public Review
 
@@ -27,23 +27,20 @@ The idea of a white paper on SSI Harms came out of the work of the Identity for 
 
 ## Revision History
 
-------------- ------------------- ---------------------------------------
-  **Version**   **Date Approved**   **Revisions**
-  1.0           16 November 2022    Initial Publication for Public Review
+  | **Version** |  **Date Approved** |  **Revisions**
+  | :-- | :-- | :-- |
+  |1.0 |          16 November 2022 |   Initial Publication for Public Review|
 
-------------- ------------------- ---------------------------------------
 
 ## Text & Terms
 
 There is a glossary for the paper, and all terms included in that glossary are highlighted in **bold** As many of the terms we will use are contentious, we are defining them here as they are used in this document:
 
-**digital identity** - a form of [digital data](https://essif-lab.github.io/framework/docs/terms/digital-data) that enables a specific entity to be distinguished from all others in a
-specific context. Identity may apply to any type of entity, including individuals, organisations, and things.
+- **digital identity** - a form of [digital data](https://essif-lab.github.io/framework/docs/terms/digital-data) that enables a specific entity to be distinguished from all others in a specific context. Identity may apply to any type of entity, including individuals, organisations, and things.
 
-**digital identity ecosystem** - A set of at least two (autonomous) [parties](https://essif-lab.github.io/framework/docs/terms/party) (members of the ecosystem) whose individual expressions of **digital identity** are recognised by other members, and whose individual work is
-of benefit to the set as a whole. Also known as a [digital trust ecosystem (DTE)](https://trustoverip.github.io/toip/glossary.html#digital-trust-ecosystem).
+- **digital identity ecosystem** - A set of at least two (autonomous) [parties](https://essif-lab.github.io/framework/docs/terms/party) (members of the ecosystem) whose individual expressions of **digital identity** are recognised by other members, and whose individual work is of benefit to the set as a whole. Also known as a [digital trust ecosystem (DTE)](https://trustoverip.github.io/toip/glossary.html#digital-trust-ecosystem).
 
-**[self-sovereign identity (SSI)](https://trustoverip.github.io/toip/glossary.html#self-sovereign-identity)** - [Concepts/ideas](https://trustoverip.github.io/toip/glossary.html#concept), architectures, processes and technologies that aim to support (autonomous) [parties](https://trustoverip.github.io/toip/glossary.html#party) as they negotiate and execute electronic [transactions](https://trustoverip.github.io/toip/glossary.html#transaction) with one another. Also referred to as decentralised identity.
+- **[self-sovereign identity (SSI)](https://trustoverip.github.io/toip/glossary.html#self-sovereign-identity)** - [Concepts/ideas](https://trustoverip.github.io/toip/glossary.html#concept), architectures, processes and technologies that aim to support (autonomous) [parties](https://trustoverip.github.io/toip/glossary.html#party) as they negotiate and execute electronic [transactions](https://trustoverip.github.io/toip/glossary.html#transaction) with one another. Also referred to as decentralised identity.
 
 ## Terms of Use
 
