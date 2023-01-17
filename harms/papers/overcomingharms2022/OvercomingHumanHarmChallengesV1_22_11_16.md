@@ -7,7 +7,7 @@ Version 1.0 Draft for Public Review
 This publicly available white paper was approved by the Human Experience Working Group on 16 November 2022. The ToIP permalink for this document is:
 https://trustoverip.org/permalink/Overcoming-Human-Harm-Challenges-in-Digital-Identity-Ecosystems-V1.0-2022-11-16.pdf
 
-The mission of the [[Trust over IP (ToIP) Foundation]{.ul}](http://www.trustoverip.org) is to define a complete architecture for Internet-scale digital trust that combines cryptographic assurance at the machine layer with human accountability at the business, legal, and social layers. Founded in May 2020 as a non-profit hosted by the Linux Foundation, the ToIP Foundation has over 400 organisational and 100 individual members from around the world. Please see the end page for licensing information and how to get involved with the Trust Over IP Foundation.
+The mission of the [[Trust over IP (ToIP) Foundation]](http://www.trustoverip.org) is to define a complete architecture for Internet-scale digital trust that combines cryptographic assurance at the machine layer with human accountability at the business, legal, and social layers. Founded in May 2020 as a non-profit hosted by the Linux Foundation, the ToIP Foundation has over 400 organisational and 100 individual members from around the world. Please see the end page for licensing information and how to get involved with the Trust Over IP Foundation.
 
 
 
