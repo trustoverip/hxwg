@@ -680,7 +680,7 @@ Longer-term, key research questions on resilience include:
 
 **Case: Resilience in Diaspora.** H\'mong communities, originally from Southern China where they were persecuted by the dominant Han culture, migrated south to Indochina, where there has been a history of civil war with the dominant Sian culture. Many H'mong still live in Indochina today and are still denied citizenship and rights to the lands they cultivate. H'mong people, in contrast to other indigenous groups, have maintained collective resilience with a very strong sense of belonging and 'nationhood' despite the diaspora by maintaining their culture (i.e. language, artefacts, oral history) and exogamy (outmarriage). This story illustrates that collective resilience is often built through a shared history and collective memory of suffering, friction or violence and through decentralisation (exogamy).
 
-*The ToIP Take:* Maintaining a history of the **digital identity ecosystem** and of the identity itself that is portable across ecosystems, over time and that may include provenance as ancestry (e.g. including credentials that were issued to parents and grandparents that serve as attributes for their children)**,** diversifying the **ecosystem**, and building a shared culture within the **ecosystem **supports resilience.
+*The ToIP Take:* Maintaining a history of the **digital identity ecosystem** and of the identity itself that is portable across ecosystems, over time and that may include provenance as ancestry (e.g. including credentials that were issued to parents and grandparents that serve as attributes for their children)**,** diversifying the **ecosystem**, and building a shared culture within the **ecosystem** supports resilience.
 
 # Conclusion
 
