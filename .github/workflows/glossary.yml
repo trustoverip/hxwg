@@ -42,10 +42,12 @@ jobs:
         run: ./tt/bin/tt glossary ${{ env.GLOSSARY_DEF_FILE }} >glossary.html.new
 
       - name: Setup git config
+        env:
+          HUB_PAT: ${{ secrets.HUB_PAT }}
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.HUB_PAT }}@github.com/trustoverip/hxwg.git
+          git remote set-url origin https://x-access-token:${{ env.HUB_PAT }}@github.com/trustoverip/hxwg.git
 
       - name: Publishing
         run: |
