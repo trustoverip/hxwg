@@ -45,7 +45,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token: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@github.com/OWNER/REPO.git
+          git remote set-url origin https://x-access-token:${{ env.GITHUB_PAT }}@github.com/trustoverip/hxwg.git
 
       - name: Publishing
         run: |
